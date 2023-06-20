@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../phyton/ufcd1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto2"
+	}
+}
